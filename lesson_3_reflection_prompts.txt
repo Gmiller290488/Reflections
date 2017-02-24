@@ -12,3 +12,6 @@ use one instead of another?
   You clone if you are collaborating on someones work.
   You fork if you are planning to make changes to someones code, that you
   won't push back to them.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+  In the case that somehow a merge ruins your code.
