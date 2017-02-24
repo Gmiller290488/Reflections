@@ -3,15 +3,21 @@ What happens when you initialize a repository? Why do you need to do it?
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
-
+  It is a nice middleman, it's easier to see how things look there before
+  making the commit to put it online.
 How can you use the staging area to make sure you have one commit per logical
 change?
+  You can add your commits in a singular fashion to the stage area
+  before commiting.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+  You can branch out when you are trying to implement something you aren't
+  sure will work or be better, but maintain the working code.
 
 How do the diagrams help you visualize the branch structure?
-
+  They help to see where they could be branches that dont get stored.
+  
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
